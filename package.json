@@ -13,7 +13,7 @@
   "dependencies": {
     "express": "^4.16.4",
     "mocha": "^5.2.0",
-    "mongoose": "^5.4.1",
+    "mongoose": "^5.7.5",
     "supertest": "^3.3.0"
   },
   "devDependencies": {
